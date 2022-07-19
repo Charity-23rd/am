@@ -1,0 +1,25 @@
+body {
+    margin: 0%;
+    background-color: #66BFBF;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    color: #A5F4ED;
+    margin-top: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h2 {
+    color: #A5F4ED;
+    font-family: 'Roboto', sans-serif;
+}
+h3 {
+    font-family: 'Roboto';
+}
+p {
+    line-height: 2;
+    font-family: 'Roboto';
+}
+hr {
+    border: dotted;
+    color: #A5F4ED;
+}
